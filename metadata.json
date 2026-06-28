@@ -1,0 +1,10 @@
+{
+  "name": "CivicMind AI",
+  "description": "CivicMind AI is an autonomous hyperlocal governance intelligence platform fusing interactive civic digital twins, real-time multi-agent reasoning, predictive infrastructure intelligence, and citizen gamification to transform community reporting into rapid, collaborative, and predictive public resolution.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
