@@ -114,17 +114,3 @@ Ensure your workspace has a `GEMINI_API_KEY` configured in the Secrets manager t
    ```
 
 ---
-
-## 🏆 Judge Presentation & Pitch Strategy
-
-### The 3-Minute Winning Pitch Outline
-1. **The Hook (0:00 - 0:30)**: "Every 2 minutes, another pothole forms, and municipal teams operate blind. Traditional reporting systems are digital file cabinets for citizen complaints. We built CivicMind AI to make city governance autonomous, predictive, and collaborative."
-2. **The Demo (0:30 - 2:00)**: Show how easily citizens submit multi-modal reports, how the 8-agent AI queue completes real-time analysis, how the system identifies duplicates instantly, and how the Civic Digital Twin displays risk indices.
-3. **The ROI (2:00 - 2:40)**: Highlight how **Predictive Intelligence** saves 4.2x in municipal maintenance budgets by repairing asphalt micro-cracks before they collapse into deep potholes.
-4. **The Close (2:40 - 3:00)**: "CivicMind AI is not a complaint app—it is an autonomous operating system for smart cities."
-
-### Winning Demo Script
-- **Step 1**: Open **Citizen Platform**, select "Downtown Crossing," click "Dictate Report," wait for voice transcription to fill the form, upload an image, and click "Submit."
-- **Step 2**: Toggle to **Multi-Agent Network** to view the glowing nodes of the 8 agents running analysis, extracting severity, and planning resources.
-- **Step 3**: Toggle to **Government Dispatch** to see the newly submitted ticket. Inspect the auto-generated AI Resolution Plan (DPW allocation, $1,200 estimated cost).
-- **Step 4**: Go to **Civic Digital Twin** to view the real-time coordinates, toggle the "Predictive Grids" layer, and click "Schedule Pre-emptive patching" to resolve a prospective water leak before it ruptures.
